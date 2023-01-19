@@ -1,0 +1,11 @@
+{
+    "testnet" : {
+      "bsc" : {
+        "v1" : {
+          "NftCollection" : "0x4F36fD16189Ec698A8891389407D6256Dd227970",
+          "MarketPlace" : "0x0CE5A40659E8B3A22ef9B973b7cC0312B0B6Ed27"
+        }
+      }
+    }
+  }
+  
